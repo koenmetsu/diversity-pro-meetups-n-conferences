@@ -22,6 +22,7 @@ The women.code(be) team
 | Name |  Month | Topic(s) | Location | Language(s)
 |-------|:----:|:---------------:|:----------:|:--------:|
 |[example conference](http://womencode.be) | April | Frontend, UX | Ghent| Dutch English |
+|[Full Stack Europe](https://fullstackeurope.com/) | TBA 2018 | Full Stack | Antwerp | Dutch English |
 
 
 ## Meetup Groups
