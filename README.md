@@ -19,13 +19,13 @@ The women.code(be) team
 
 ## Conferences
 
-| Name |  Month | Topic(s) | Location | Language(s)
-|-------|:----:|:---------------:|:----------:|:--------:|
-|[example conference](http://womencode.be) | April | Frontend, UX | Ghent| Dutch English |
+| Name |  Month | Topic(s) | Location | Language(s) | CoC (optional) |
+|-------|:----:|:---------------:|:----------:|:--------:|----------|
+|[example conference](http://womencode.be) | April | Frontend, UX | Ghent| Dutch, English |[link to code of conduct](http://womencode.be)
 
 
 ## Meetup Groups
 
-| Name |  Regularity | Topic(s) | Not region fixed? | Location(s) | Languages |
-|-------|:----:|:----------:|:-----:|:-----:|:----------:|
-|[women.code(be)](https://www.meetup.com/Women-code-be/) | bi-monthly| Everything code/programming-related and Women in Tech | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English |
+| Name |  Regularity | Topic(s) | Not region fixed? | Location(s) | Languages | CoC (optional) |
+|-------|:----:|:----------:|:-----:|:-----:|:----------:|-------|
+|[women.code(be)](https://www.meetup.com/Women-code-be/) | bi-monthly| Everything code/programming-related and Women in Tech | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English | [our code of conduct](https://www.womencode.be/code-of-conduct.html)|
