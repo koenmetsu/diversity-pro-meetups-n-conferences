@@ -33,3 +33,4 @@ The women.code(be) team
 | Name |  Regularity | Topic(s) | Not region fixed? | Location(s) | Languages | CoC (optional) |
 |-------|:----:|:----------:|:-----:|:-----:|:----------:|-------|
 |[women.code(be)](https://www.meetup.com/Women-code-be/) | bi-monthly| Everything code/programming-related and Women in Tech | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English | [our code of conduct](https://www.womencode.be/code-of-conduct.html)|
+|[Full Stack Belgium](https://fullstackbelgium.be) | monthly | Organising meetups on front end, back end, devops and everything in between in the cities of Antwerp, Ghent and Brussels. | ✅ | Antwerp, Ghent, Brussels | Dutch English | 
