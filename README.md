@@ -1,6 +1,6 @@
 # Diversity pro meetups & conferences in Belgium
 
-This is a curated list of developer-related meetup groups and conferences that are pro diversity in our tech community. 
+This is a curated list of developer-related meetup groups and conferences that are pro diversity in our tech community.
 
 All meetup groups and conferences are welcome to add themselves as long as these requisites are met:
 
@@ -19,12 +19,16 @@ The women.code(be) team
 
 ## Conferences
 
+
 | Name |  Month | Topic(s) | Location | Language(s) | CoC (optional) |
 |-------|:----:|:---------------:|:----------:|:--------:|----------|
-|[example conference](http://womencode.be) | April | Frontend, UX | Ghent| Dutch, English |[link to code of conduct](http://womencode.be)
+|[example conference](http://womencode.be) | April | Frontend, UX | Ghent| Dutch English | [link to code of conduct](http://womencode.be)|
+|[Full Stack Europe](https://fullstackeurope.com/) | TBA 2018 | Full Stack | Antwerp | Dutch English | |
+
 
 
 ## Meetup Groups
+
 
 | Name |  Regularity | Topic(s) | Not region fixed? | Location(s) | Languages | CoC (optional) |
 |-------|:----:|:----------:|:-----:|:-----:|:----------:|-------|
