@@ -33,5 +33,6 @@ The women.code(be) team
 | Name |  Regularity | Topic(s) | Not region fixed? | Location(s) | Languages | CoC (optional) |
 |-------|:----:|:----------:|:-----:|:-----:|:----------:|-------|
 |[women.code(be)](https://www.meetup.com/Women-code-be/) | bi-monthly| Everything code/programming-related and Women in Tech | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English | [our code of conduct](https://www.womencode.be/code-of-conduct.html)|
-|[Full Stack Belgium](https://fullstackbelgium.be) | monthly | Organising meetups on front end, back end, devops and everything in between in the cities of Antwerp, Ghent and Brussels. | ✅ | Antwerp, Ghent, Brussels | Dutch English | 
+|[Full Stack Belgium](https://fullstackbelgium.be) | monthly | Organising meetups on front end, back end, devops and everything in between in the cities of Antwerp, Ghent and Brussels. | ✅ | Antwerp, Ghent, Brussels | Dutch English |
 | [Fronteers Belgium](https://www.meetup.com/fronteersbe/) | monthly | Front-end development in its broadest sense | ✅ | All over Flanders | Dutch, English | Please be nice to each other! |
+| [Rails Girls Brussels](http://rubybelgium.be/rails-girls/) | 1–3 / year | 1 day introduction to HTML, CSS, and Ruby on Rails | | Brussels | English | [Ruby Belgium CoC](http://rubybelgium.be/code-of-conduct/) |
