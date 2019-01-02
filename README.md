@@ -25,6 +25,7 @@ The women.code(be) team
 |[example conference](http://womencode.be) | April | Frontend, UX | Ghent| Dutch English | [link to code of conduct](http://womencode.be)|
 |[Full Stack Europe](https://fullstackeurope.com/) | TBA | Full Stack | Antwerp | Dutch English |
 |[NG-BE](https://ng-be.org/) | December | Everything related to Angular | Ghent | Dutch English | [link to code of conduct](https://ng-be.org/code-of-conduct) |
+|[SoCraTesBe](http://socratesbe.org/) | November | Software Crafting and Testing 2-day Unconference | La Roche-En-Ardenne, BE | English | [link to code of conduct](http://socratesbe.org/#coc) |
 
 
 
