@@ -37,7 +37,7 @@ The women.code(be) team
 |[Full Stack Belgium](https://fullstackbelgium.be) | monthly | Organising meetups on front end, back end, devops and everything in between in the cities of Antwerp, Ghent and Brussels. | ✅ | Antwerp, Ghent, Brussels | Dutch English |
 |[Fronteers Belgium](https://www.meetup.com/fronteersbe/) | monthly | Front-end development in its broadest sense | ✅ | All over Flanders | Dutch, English | Please be nice to each other! |
 |[Angular Belgium](https://www.meetup.com/Angular-Belgium/) | 2–3 / year | Everything related to Angular | ✅ | Ghent, Antwerp, Brussels, Mechelen, Leuven | English | [our code of conduct](https://ng-be.org/code-of-conduct)|
-|[SoCraTesBe](https://www.meetup.com/socratesbe/) | at least monthly | Software Crafting and Testing Open Spaces, technical sessions, and more. | ❓ | Ghent, Antwerp, Leuven | English | [our code of conduct](http://confcodeofconduct.com/)|
+|[SoCraTesBe](https://www.meetup.com/socratesbe/) | at least monthly | Software Crafting and Testing Open Spaces, technical sessions, and more. | ✅ | Ghent, Antwerp, Leuven | English | [our code of conduct](http://confcodeofconduct.com/)|
 
 
 ## Recurring Workshops
